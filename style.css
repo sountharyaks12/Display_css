@@ -1,0 +1,40 @@
+.bgc{
+    background: linear-gradient(to right,#eacda3,#d6ae7b);
+}
+.border{
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+    padding: 20px;
+}
+.inline{
+    display: inline;
+    width: 100px;
+    height: 100px;
+    border: 3px solid;
+    border-color: black;
+    padding: 1px;
+    background-color: rgb(214, 108, 154);
+}
+.block{
+    display: block;
+    border: 3px solid;
+    width: 100px;
+    height: 100px;
+    border-color: black;
+    padding: 1px;
+    background-color: rgb(214, 108, 154);
+}
+.inblock{
+    display: inline-block;
+    border: 3px solid;
+    width: 100px;
+    height: 100px;
+    border-color: black;
+    padding: 1px;
+    background-color: rgb(214, 108, 154);
+}
